@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+
+.anli_con{
+	width:auto;
+	height:auto;
+	margin-top:5px;
+	}
+.anli_con_li{
+	float:left;
+	display:inline;
+	margin-left:10px;
+	margin-top:0px;
+	position:relative;
+	width:158px;
+	height:90px;
+	overflow:hidden;
+	}
+.spri{
+	position:absolute;
+	line-height:30px;
+	width:158px;
+	height:30px;
+	display:block;
+	background:url(../images/sprites.png) no-repeat 0px 0px;
+	color:#fff;
+	cursor:pointer;
+	text-decoration:none;
+	padding-top:0px;
+	left:0px;
+	bottom:0px;
+	text-align:center;
+	overflow:hidden;
+	padding:0px;
+	margin:0px;
+	}
+#jzcdemo{
+	width:842px;
+	height:90px;
+	overflow:hidden;
+	position:relative;
+	}
+#jzcindemo {
+	float: left;
+	width: 800%;
+}
+#jzcdemotwo {
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+.blk_29{
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	PADDING-BOTTOM: 10px;
+	OVERFLOW: hidden;
+	PADDING-TOP: 10px;
+	ZOOM: 1;
+	POSITION: relative;
+}
+.blk_29 .LeftBotton{
+	background:url(../images/all_pic.gif) -279px -28px no-repeat; 
+	left: 5px; 
+	FLOAT: left; 
+	WIDTH:18px; 
+	CURSOR: pointer; 
+	POSITION: absolute; 
+	TOP: 130px; 
+	HEIGHT:18px
+}
+.blk_29 .RightBotton{
+	RIGHT:5px;
+	background:url(../images/all_pic.gif) -298px -28px no-repeat;
+	FLOAT:right; 
+	WIDTH:18px; 
+	CURSOR: pointer; 
+	POSITION: absolute; 
+	TOP: 130px; 
+	HEIGHT:18px
+}
+.blk_29 .Cont {
+	MARGIN: 0px auto; 
+	OVERFLOW: hidden; 
+	WIDTH: 444px;
+
+}
+.blk_29 .box {
+	FLOAT: left; 
+	WIDTH: 444px; 
+	TEXT-ALIGN: center;
+	}
+.blk_29 .box IMG {
+	border:none;
+}
+
+.blk_29 .box P {
+	MARGIN: 6px auto 0px; 
+	WIDTH: 97px; 
+	LINE-HEIGHT: 20px
+	}
+.blk_29 .box span{
+	width:444px;
+	}
+.rollphotos {
+	MARGIN-TOP: 0px;
+	WIDTH:444px
+}
+
